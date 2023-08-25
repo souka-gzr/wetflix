@@ -1,0 +1,9 @@
+{
+    "apiUrl" : "https://admin.gomovies.ma/api/",
+
+	"pushUpdate" : "off",
+
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
+
+}
